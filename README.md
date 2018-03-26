@@ -58,6 +58,6 @@ them to the CAM4Recorder wanted list.
 ]
 ```
 
-## Excluded
+## Exclude
 
-Any model in `excluded.txt` will not be matched by any filter.
+Any model in `exclude.txt` will not be matched by any filter.

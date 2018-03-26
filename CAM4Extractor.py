@@ -80,7 +80,7 @@ def readFilters():
 
 
 def readExcluded():
-    if not os.path.isfile("excluded.txt"):
+    if not os.path.isfile("exclude.txt"):
         return []
     with open("exclude.txt", "r") as ins:
         excludedList = []
