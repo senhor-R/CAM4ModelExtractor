@@ -1,0 +1,5 @@
+.idea
+venv
+output
+wanted
+__pycache__

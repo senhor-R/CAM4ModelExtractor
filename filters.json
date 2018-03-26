@@ -1,0 +1,11 @@
+[
+  {
+    "name": "example-filter",
+    "country": ".*",
+    "gender": ".*",
+    "orientation": ".*",
+    "title": ".*",
+    "url": ".*",
+    "exportToCapture": false
+  }
+]
