@@ -33,7 +33,7 @@ newly discovered models should be appended to [beaston02/CAM4Recorder](https://g
 
 The example given bellow creates two filters. The first filter extracts
 female models from the US, and exports them to the CAM4Recorder wanted list.
-The second example captures bisexual models from germany, and does not export
+The second example captures bisexual models from Germany, and does not export
 them to the CAM4Recorder wanted list.
 ```json
 [
@@ -57,3 +57,7 @@ them to the CAM4Recorder wanted list.
   }
 ]
 ```
+
+## Excluded
+
+Any model in `excluded.txt` will not be matched by any filter.
